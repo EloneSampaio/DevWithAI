@@ -79,3 +79,9 @@ Você encontrará templates para os seguintes agentes em `templates/agents/promp
 ## Conclusão
 
 Com essa estrutura, é possível criar um ecossistema de desenvolvimento moderno, onde a IA desempenha um papel ativo na documentação, execução e melhoria contínua de projetos. A organização de dados, prompts e contexto é essencial para desbloquear a produtividade real com assistentes de IA.
+
+---
+
+## Créditos
+
+Este projeto foi idealizado e estruturado por Elone Izata Sampaio.
